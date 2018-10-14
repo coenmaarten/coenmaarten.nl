@@ -42,8 +42,7 @@ body, html{
   color: #ffffff;
   display: block;
   padding: 10px;
-  font-size: 20px;
-  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  font-size: 30px;
 }
 /*main*/
 main{
