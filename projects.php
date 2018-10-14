@@ -22,8 +22,12 @@
       <?php include 'header.php'; ?>
     </header>
     <main>
+      <div class="grid-item-seperator">
+        <div class="grid-item-seperator-year">
+          <p>2018</p>
+        </div>
+      </div>
       <div class="grid-header">
-
         <div class="grid-item">
           <div class="item-header">
             <div class="item-title">
@@ -296,7 +300,6 @@
             </div>
           </div>
         </div>
-
       </div>
     </main>
     <footer>
