@@ -22,6 +22,282 @@
       <?php include 'header.php'; ?>
     </header>
     <main>
+      <div class="grid-header">
+
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid-item">
+          <div class="item-header">
+            <div class="item-title">
+              <p>Test</p>
+            </div>
+          </div>
+          <div class="item-content">
+            <div class="item-content-image">
+              <img src="images/test-image.jpg" alt="test">
+            </div>
+            <div class="line"></div>
+            <div class="item-content-description">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget pretium sapien. Cras aliquet mollis metus, a dictum massa vestibulum in. Suspendisse iaculis quis magna id malesuada.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
     </main>
     <footer>
     </footer>
