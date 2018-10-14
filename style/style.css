@@ -45,6 +45,10 @@ body, html{
   font-size: 30px;
 }
 /*main*/
+.main-fix{
+  padding-top: 110px;
+}
+
 main{
   padding-top: 55px;
   padding-bottom: 200px;

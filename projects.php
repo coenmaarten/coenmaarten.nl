@@ -21,7 +21,7 @@
     <header>
       <?php include 'header.php'; ?>
     </header>
-    <main>
+    <main id="main">
       <div class="grid-item-seperator">
         <div class="grid-item-seperator-year">
           <p>2018</p>
