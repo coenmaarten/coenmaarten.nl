@@ -73,6 +73,7 @@ main{
   opacity: 0.70;
   background-image: linear-gradient(rgba(57, 108, 224, 0.68), rgba(61, 21, 183, 0.47)), url(/images/background.jpg);
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
   background-position: center;
   padding: 100px 0;
