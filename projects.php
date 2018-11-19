@@ -9,25 +9,30 @@
     <title>Portfolio test</title>
   </head>
   <body>
-    <div class="title">
-      <div class="head1">
-        <a class="text-title">Projects</a>
-        <div class="undertext">
+    <div>
+      <div class="title" style="padding: 0;">
+        <div id="particles-js">
+        <div class="head1">
+          <a class="text-title">Projects</a>
+          <div class="undertext">
+          </div>
+        </div>
+        <div class="background">
         </div>
       </div>
-      <div class="background">
-      </div>
+  </div>
     </div>
     <header>
       <?php include 'header.php'; ?>
     </header>
     <main id="main">
-      <div class="grid-item-seperator">
+        <div class="main-content">
+            <div class="grid-item-seperator">
         <div class="grid-item-seperator-year">
           <p>2018</p>
         </div>
       </div>
-      <div class="grid-header">
+            <div class="grid-header">
         <div class="grid-item">
           <div class="grid-item-inside">
             <div class="front">
@@ -397,9 +402,12 @@
           </div>
         </div>
       </div>
+        </div>
     </main>
     <footer>
     </footer>
   </body>
 </html>
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
 <script src="js/script.js"></script>

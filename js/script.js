@@ -1,7 +1,8 @@
 window.onscroll = function() {stickynav()};
   var navbar = document.getElementById("site-nav");
+  var canvasheight = document.getElementById("background_canvas");
   var main = document.getElementById('main');
-  var sticky = navbar.offsetTop;
+  var sticky = canvasheight.offsetHeight;
 
 function stickynav() {
   if (window.pageYOffset >= sticky) {

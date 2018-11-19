@@ -10,7 +10,9 @@
     <title>Portfolio test</title>
   </head>
   <body>
-    <div class="title">
+    <div>
+    <div class="title" style="padding: 0;">
+      <div id="particles-js">
       <div class="head1">
         <a class="text-title">Coen de Vries</a>
         <div class="undertext">
@@ -18,6 +20,7 @@
         </div>
       </div>
       <div class="background">
+      </div>
       </div>
     </div>
     <header>
@@ -32,6 +35,8 @@
     <footer>
     </footer>
 
+    <script src="js/particles.js"></script>
+    <script src="js/app.js"></script>
     <script src="js/script.js"></script>
   </body>
 </html>
