@@ -5,12 +5,12 @@
     <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="style/style.css">
-    <title>Portfolio test</title>
+    <link rel="stylesheet" href="/style/style.css">
+    <title>Coenmaarten.nl - Projects</title>
   </head>
   <body>
     <div>
-      <div class="title" style="padding: 0;">
+      <div class="title">
         <div id="particles-js">
         <div class="head1">
           <a class="text-title">Projects</a>
@@ -43,7 +43,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -66,7 +66,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -89,7 +89,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -112,7 +112,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -135,7 +135,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -158,7 +158,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -181,7 +181,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -204,7 +204,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -227,7 +227,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -250,7 +250,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -273,7 +273,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -296,7 +296,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -319,7 +319,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -342,7 +342,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -365,7 +365,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -388,7 +388,7 @@
               </div>
               <div class="item-content">
                 <div class="item-content-image">
-                  <img src="images/test-image.jpg" alt="test">
+                  <img src="/images/test-image.jpg" alt="test">
                 </div>
                 <div class="line"></div>
                 <div class="item-content-description">
@@ -408,6 +408,6 @@
     </footer>
   </body>
 </html>
-<script src="js/particles.js"></script>
-<script src="js/app.js"></script>
-<script src="js/script.js"></script>
+<script src="/js/particles.js"></script>
+<script src="/js/app.js"></script>
+<script src="/js/script.js"></script>

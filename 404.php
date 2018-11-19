@@ -7,16 +7,16 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/style/style.css">
-    <title>Coenmaarten.nl</title>
+    <title>Coenmaarten.nl - 404 Page</title>
   </head>
   <body>
     <div>
     <div class="title">
       <div id="particles-js">
       <div class="head1">
-        <a class="text-title">Coen de Vries</a>
+        <a class="text-title">Error 404</a>
         <div class="undertext">
-          <a class="text-title">Student Applicatieontwikkelaar</a>
+          <a class="text-title">Page not found</a>
         </div>
       </div>
       <div class="background">
@@ -27,10 +27,7 @@
       <?php include 'header.php'; ?>
     </header>
     <main id="main">
-      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+      <center><img class="error-img" src="/images/p-trans.png" alt="404 link error"><center>
     </main>
     <footer>
     </footer>
