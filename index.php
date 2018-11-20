@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    <meta name="Description" CONTENT="Portfolio website, Coenmaarten, Coen de vries, Coenmaarten projects">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/style/style.css">
     <title>Coenmaarten.nl</title>
