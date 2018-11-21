@@ -171,10 +171,12 @@ main{
   position: absolute;
   width: 100%;
   margin: auto;
+  overflow:hidden
 }
 .undertext{
   font-size: 20px;
   text-align: center;
+  overflow: hidden;
 }
 .text-title{
   color: white;
@@ -194,6 +196,12 @@ main{
   min-height: 142px;
 }
 
+@media screen and (max-width: 800px){
+  .main-content{
+    margin: 0;
+  }
+
+}
 /*Error page*/
 .error-img{
     max-width: 800px;
